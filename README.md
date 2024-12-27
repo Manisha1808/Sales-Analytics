@@ -55,22 +55,22 @@ Phones (14.2K), Chairs (12.3K), and Binders (9.7K) are the top-performing sub-ca
 
 key insights:
    
-Sales Trends Over Time:
+1. Sales Trends Over Time:
 
 The top chart shows sales forecasts over time (January 2019 to January 2021). There are periodic spikes in sales, suggesting seasonal or event-driven variations.
 
-Recent Sales Performance:
+2. Recent Sales Performance:
 
 The bottom chart zooms in on the sales forecast for a 15-day window (late 2020 to early 2021). 
 Sales exhibit significant fluctuations, with some peaks reaching above 10,000 units.
 
-State Contributions to Sales:
+3. State Contributions to Sales:
 
 The bar chart on the right visualizes sales distribution across states.
 California leads in sales, followed by New York and Texas.
 Other states like Washington, Pennsylvania, and Ohio contribute smaller shares.
 
-Regional Prioritization:
+4. Regional Prioritization:
 
 Regions such as California and New York might require strategic attention due to their high contributions, while states with lower sales could present opportunities for market penetration.
  
